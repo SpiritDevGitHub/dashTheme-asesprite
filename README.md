@@ -1,5 +1,5 @@
 # Aseprite Dash Theme
-This is a dark theme for the pixelart editor **Aseprite** using colours from projectDash on FiveM/
+This is a dark theme for the pixelart editor **Aseprite** using colours from projectDash on FiveM.
 
 ## Installation
 1. Download the Extension from [GitHub](https://github.com/SpiritDevGitHub/dashTheme-asesprite)
