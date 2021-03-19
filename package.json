@@ -1,0 +1,20 @@
+{
+  "name": "dash-theme",
+  "displayName": "Dash Theme",
+  "description": "Theme for Aseprite based off of projectDash",
+  "version": "1.4",
+  "author": { "name": "Spirit Dev", "email": "test@test.com", "url": "https://github.com/SpiritDevGitHub" },
+  "contributors": [
+    {}
+  ],
+  "publisher": "Spirit Dev",
+  "license": "CC-BY-4.0",
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      { "id": "Dash", "path": "." }
+    ]
+  }
+}
