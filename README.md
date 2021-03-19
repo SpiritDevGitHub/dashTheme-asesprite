@@ -2,7 +2,7 @@
 This is a dark theme for the pixelart editor **Aseprite** using colours from projectDash on FiveM/
 
 ## Installation
-1. Download the Extension from [GitHub](https://github.com/SpiritDevGitHub/dashTheme-asesprite")
+1. Download the Extension from [GitHub](https://github.com/SpiritDevGitHub/dashTheme-asesprite)
 2. Navigate to **Edit &#8658; Preferences... &#8658; Extensions**
 3. Click **Add Extension**
 4. Navigate to the downloaded Extension
