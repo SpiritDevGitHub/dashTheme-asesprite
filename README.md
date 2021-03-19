@@ -17,4 +17,4 @@ This is a dark theme for the pixelart editor **Aseprite** using colours from pro
 4. Theme will be applied immediately
 
 ## Help
-Found something off? Open an [Issue on GitHub](https://github.com/SpiritDevGitHub/dashTheme-asesprite/issues/new "New Issue &#183") with a image of the sprite/colour issue.
+Found something off? Open an [Issue on GitHub](https://github.com/SpiritDevGitHub/dashTheme-asesprite/issues/new "New Issue &#183") with a image of the sprite/colour issue/anything else you find.
